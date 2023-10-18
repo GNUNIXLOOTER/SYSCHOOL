@@ -1,0 +1,65 @@
+.cuerpo {
+    height: 400px;
+    background-image: url("../public/img/brickwall.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+  .bordes{
+    border-radius: 15px;
+  }
+  
+  .login-box-body, .register-box-body {
+      background:  #6f4f8a;
+      padding: 20px;
+      border-top: 0;
+      color: #fffefe;
+      border-radius: 3.5rem;
+  }
+
+  .skin-blue .main-header .navbar {
+    background-color: #6f4f8a;
+    
+}
+
+.skin-blue .main-header .logo {
+    background-color: #6f4f8a;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #000000;
+}
+
+.skin-blue .main-header li.user-header {
+    background-color: #0a0808;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer {
+    background-color: #6f4f8a;
+    padding: 10px;
+
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default {
+    color: rgb(3, 3, 3);
+    border-radius: 4.5rem;
+}
+
+.main-footer {
+    background-color: #6f4f8a;
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    border-top: 1px solid #d2d6de;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header {
+    height: 150px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+
+
